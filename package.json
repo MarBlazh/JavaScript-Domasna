@@ -1,0 +1,15 @@
+{
+  "name": "vezba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --port 1234",
+    "start3": "parcel index3.html --port 1235"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.2"
+  }
+}
